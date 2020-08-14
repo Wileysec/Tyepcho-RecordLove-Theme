@@ -1,6 +1,6 @@
 ## RecordLove For Typecho Theme
 
-原本这是写给我小张宝贝的Typecho记录爱情的主题
+Typecho记录爱情的主题
 
 发现还不错，觉得挺好的，现开源给大家使用，主题开源随便造
 
